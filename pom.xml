@@ -17,7 +17,7 @@
 <distributionManagement>
   <repository>
     <id>internal.repo</id>
-    <name>internal repo </name>
+    <name>internal repo1 </name>
     <!-- CHANGE HERE by your team nexus server -->
     <url>file:///var/lb/jenkins/myartifacts/</url>
   </repository>
